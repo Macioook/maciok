@@ -1,1 +1,0 @@
-document.getElementById('js').innerHTML += "Super newsy serio"
